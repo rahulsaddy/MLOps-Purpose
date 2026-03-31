@@ -1,3 +1,4 @@
 # MLOps-Purpose
 MLOps flow for the MM forecasting
-![ols_forecasting_e2e_architecture](https://github.com/user-attachments/assets/02f65043-fe6a-4265-aa45-078278d81de3)
+
+<img width="1356" height="1576" alt="image" src="https://github.com/user-attachments/assets/9e18edbe-b75b-4336-b04c-d9ef33aa2276" />
